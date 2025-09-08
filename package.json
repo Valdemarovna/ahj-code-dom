@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shutnikmiit/ahjCodeDom.git"
+    "url": "git+https://github.com/valdemarovna/ahj-code-dom.git"
   },
-  "author": "shutnikmiit",
+  "author": "valdemarovna",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shutnikmiit/ahjCodeDom/issues"
+    "url": "https://github.com/valdemarovna/ahj-code-dom/issues"
   },
   "homepage": "https://valdemarovna.github.io/ahj-code-dom",
   "scripts": {
