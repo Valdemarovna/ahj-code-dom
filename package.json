@@ -22,7 +22,12 @@
   "bugs": {
     "url": "https://github.com/shutnikmiit/ahjCodeDom/issues"
   },
-  "homepage": "https://github.com/shutnikmiit/ahjCodeDom#readme",
+  "homepage": "https://valdemarovna.github.io/ahj-code-dom",
+  "scripts": {
+    "build": "webpack --mode production",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
   "devDependencies": {
     "@babel/core": "^7.22.0",
     "@babel/preset-env": "^7.22.0",
