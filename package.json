@@ -23,11 +23,6 @@
     "url": "https://github.com/valdemarovna/ahj-code-dom/issues"
   },
   "homepage": "https://valdemarovna.github.io/ahj-code-dom",
-  "scripts": {
-    "build": "webpack --mode production",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
   "devDependencies": {
     "@babel/core": "^7.22.0",
     "@babel/preset-env": "^7.22.0",
